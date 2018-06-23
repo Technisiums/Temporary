@@ -25,7 +25,7 @@ SECRET_KEY = 'b1$z#v8cl0c$p2w2)p6uyd0ur*m#v6s(yzztsr^d4##rlb0!x1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['bookstore41.herokuapp.com']
 
 
 # Application definition
